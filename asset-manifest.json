@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4efbda88.chunk.css",
+    "main.js": "/static/js/main.febbcb9d.chunk.js",
+    "main.js.map": "/static/js/main.febbcb9d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.64ab10e9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.64ab10e9.js.map",
+    "static/css/2.13c7f9c7.chunk.css": "/static/css/2.13c7f9c7.chunk.css",
+    "static/js/2.faa688ec.chunk.js": "/static/js/2.faa688ec.chunk.js",
+    "static/js/2.faa688ec.chunk.js.map": "/static/js/2.faa688ec.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.407d98f49206e7417117eb10680e9178.js": "/precache-manifest.407d98f49206e7417117eb10680e9178.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.13c7f9c7.chunk.css.map": "/static/css/2.13c7f9c7.chunk.css.map",
+    "static/css/main.4efbda88.chunk.css.map": "/static/css/main.4efbda88.chunk.css.map",
+    "static/js/2.faa688ec.chunk.js.LICENSE.txt": "/static/js/2.faa688ec.chunk.js.LICENSE.txt",
+    "static/media/earth-high.jpg": "/static/media/earth-high.79ed7ae3.jpg",
+    "static/media/earth.jpg": "/static/media/earth.c29637be.jpg",
+    "static/media/universe.jpg": "/static/media/universe.aeaf4baf.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64ab10e9.js",
+    "static/css/2.13c7f9c7.chunk.css",
+    "static/js/2.faa688ec.chunk.js",
+    "static/css/main.4efbda88.chunk.css",
+    "static/js/main.febbcb9d.chunk.js"
+  ]
+}
